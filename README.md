@@ -1,8 +1,9 @@
 # angular-cdn-src
-An AngularJS module that automatically prepends *src* attributes with CDN server paths.
+[![Build Status](https://circleci.com/gh/levpolevoy/angular-cdn-src.png)](https://circleci.com/gh/levpolevoy/angular-cdn-src) 
+**[Demo](http://plnkr.co/j8WSdn)**
 
-[![Build Status](https://circleci.com/gh/levpolevoy/angular-cdn-src.png)](https://circleci.com/gh/levpolevoy/angular-cdn-src)
-TODO: DEMO
+
+An AngularJS module that automatically prepends *src* attributes with CDN server paths.
 
 # Instructions
 
