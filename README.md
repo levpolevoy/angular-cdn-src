@@ -29,7 +29,6 @@ angular.module('myApp').config(function(cdnSrcConfigurationProvider) {
   ]);
 });
 ```
-## Setting CDN servers
 
 # Use cases
 
