@@ -1,6 +1,7 @@
 test:
   post:
     - echo "Checking that the build process works"
-    - lineman build
+    - ./node_modules/.bin/lineman build
     - echo "Running unit tests"
-    - lineman spec-ci
+    - ./node_modules/.bin/lineman spec-ci
+
