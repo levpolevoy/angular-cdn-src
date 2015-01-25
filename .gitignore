@@ -5,3 +5,5 @@
 
 /dist
 /generated
+/bower_components
+*.swp
