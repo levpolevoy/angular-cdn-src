@@ -54,7 +54,7 @@ them from multiple hosts is an old trick that can make your website load faster.
 
 # Release
 
-1. Update CHANGELOG.md
+1. Update CHANGELOG.md and commit it (`git add CHANGELOG.md`)
 2. `git rm -f dist`
 3. `lineman build`
 4. `git add dist`

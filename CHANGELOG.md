@@ -1,4 +1,7 @@
-<a name="0.0.1"></a>
+# 0.0.2 (2015-01-25)
+
+Prepare for publishing the package in bower
+
 # 0.0.1 (2015-01-25)
 
 Initial release.
@@ -12,4 +15,3 @@ Initial release.
 ## Technical features
 
 * Create project structure (npm, bower, build scripts, documentation, github project)
-* Release via bower
