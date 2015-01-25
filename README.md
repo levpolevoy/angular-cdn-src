@@ -7,7 +7,7 @@ TODO: DEMO
 # Instructions
 
 1. `bower install angular-cdn-src --save`
-2. Add *bower_components/angular-cdn-src/dist/js/***angular-cdn-src.dist.js** to your page or to your build tool (grunt, gulp, etc...)
+2. Add *bower_components/angular-cdn-src/dist/js/***angular-cdn-src.min.js** to your page or to your build tool (grunt, gulp, etc...)
 3. Add the module to your angular application: `angular.module('myApp', ['lvp.cdnSrc'])`
 4. [Configure CDN servers](#configure-cdn-servers)
 5. Add the *cdn-src* attribute to a *img* element

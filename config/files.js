@@ -14,8 +14,7 @@ module.exports = function (lineman) {
         "app/js/**/*.js"
       ],
       concatenated: "generated/js/angular-cdn-src.js",
-      minified: "dist/js/angular-cdn-src.js",
-      minifiedWebRelative: "js/angular-cdn-src.js"
+      minified: "dist/js/angular-cdn-src.min.js"
     }
   };
 };
