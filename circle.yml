@@ -1,7 +1,10 @@
+dependencies:
+  override:
+    - npm install --dev
+
 test:
-  post:
+  override:
     - echo "Checking that the build process works"
     - ./node_modules/.bin/lineman build
     - echo "Running unit tests"
     - ./node_modules/.bin/lineman spec-ci
-
