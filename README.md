@@ -58,11 +58,12 @@ them from multiple hosts is an old trick that can make your website load faster.
 2. `git rm -f dist`
 3. `lineman build`
 4. `git add -f dist`
-5. `git commit -m "Release v[version number]"`
-6. `git tag v[version number]
+5. `git commit -m "Release [version number]"`
+6. `git tag [version number]`
 
 Start working on the next version:
+
 1. Update *package.json*
 2. Update *bower.json*
-5. `git commit -m "Starting v[version number]" --allow-empty`
+5. `git commit -m "Starting [version number]" --allow-empty`
 6. `git push origin master --tags`
