@@ -1,0 +1,14 @@
+{
+  "framework": "jasmine",
+  "launch_in_dev": ["Chrome"],
+  "launch_in_ci": ["PhantomJS"],
+  "src_files": [
+    "bower_components/angular/angular.js",
+    "bower_components/angular-mocks/angular-mocks.js",
+    "app/js/*.js",
+    "app/js/directives/*.js",
+    "app/js/providers/*.js",
+    "spec/directives/*spec.js",
+    "spec/providers/*spec.js"
+  ]
+}

@@ -1,0 +1,6 @@
+test:
+  post:
+    - echo "Checking that the build process works"
+    - lineman build
+    - echo "Running unit tests"
+    - lineman spec-ci
