@@ -54,16 +54,15 @@ them from multiple hosts is an old trick that can make your website load faster.
 
 # Release
 
-1. Update CHANGELOG.md and commit it (`git add CHANGELOG.md`)
-2. `git rm -f dist`
+1. Update CHANGELOG.md
+2. `git add CHANGELOG.md`
 3. `lineman build`
 4. `git add -f dist`
-5. `git commit -m "Release [version number]"`
-6. `git tag [version number]`
+5. `git commit -m "Release [current version number]"`
+6. `git tag [current version number]`
 
 Start working on the next version:
 
-1. Update *package.json*
-2. Update *bower.json*
-5. `git commit -m "Starting [version number]" --allow-empty`
-6. `git push origin master --tags`
+1. Update *package.json* and *bower.json* with the next version number
+2. `git commit -m "Starting [the new version number]"`
+3. `git push origin master --tags`
