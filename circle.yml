@@ -1,7 +1,3 @@
-dependencies:
-  override:
-    - npm install --dev
-
 test:
   override:
     - echo "Checking that the build process works"
