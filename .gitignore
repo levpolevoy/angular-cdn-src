@@ -7,3 +7,7 @@
 /generated
 /bower_components
 *.swp
+# WebStorm project files
+/.idea
+
+npm-debug.log
