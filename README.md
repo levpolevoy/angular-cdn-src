@@ -3,7 +3,7 @@ https://github.com/levpolevoy/angular-cdn-src
 
 [![Build Status](https://circleci.com/gh/levpolevoy/angular-cdn-src.png)](https://circleci.com/gh/levpolevoy/angular-cdn-src) 
 
-**[Demo](http://plnkr.co/edit/j8WSdn)**
+**[Demo](http://plnkr.co/edit/j8WSdn?p=preview)**
 
 
 An AngularJS module that automatically prepends *src* attributes with CDN server paths.
