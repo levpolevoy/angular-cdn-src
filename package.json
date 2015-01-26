@@ -3,10 +3,7 @@
   "description": "An AngularJS module that automatically prepends 'src' attributes with CDN server paths",
   "version": "0.0.4",
   "private": false,
-  "author": {
-    "name": "Lev Polevoy",
-    "company": ""
-  },
+  "author": "Lev Polevoy <levpolevoy@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/levpolevoy/angular-cdn-src.git"
@@ -20,6 +17,7 @@
     "cdn"
   ],
   "homepage": "https://github.com/levpolevoy/angular-cdn-src",
+  "bugs": "https://github.com/levpolevoy/angular-cdn-src/issues",
   "dependencies": {
   },
   "devDependencies": {
