@@ -19,15 +19,15 @@
   "homepage": "https://github.com/levpolevoy/angular-cdn-src",
   "bugs": "https://github.com/levpolevoy/angular-cdn-src/issues",
   "dependencies": {
-  },
-  "devDependencies": {
     "bower": "^1.3.12",
     "coffee-script": "^1.6.3",
     "grunt": "^0.4.5",
-    "jasmine-given": "^2.6.2",
     "lineman": "^0.34.0",
     "lineman-angular": "^0.3.0",
-    "lineman-bower": "0.0.5",
+    "lineman-bower": "0.0.5"
+  },
+  "devDependencies": {
+    "jasmine-given": "^2.6.2",
     "protractor": "^1.4.0"
   },
   "scripts": {
