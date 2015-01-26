@@ -10,7 +10,7 @@ An AngularJS module that automatically prepends *src* attributes with CDN server
 
 # Instructions
 
-1. `bower install angular-cdn-src --save`
+1. `bower install angular-cdn-src --save` or `npm install angular-cdn-src --save`
 2. Add *bower_components/angular-cdn-src/dist/js/***angular-cdn-src.min.js** to your page or to your build tool (grunt, gulp, etc...)
 3. Add the module to your angular application: `angular.module('myApp', ['lvp.cdnSrc'])`
 4. [Configure CDN servers](#configure-cdn-servers)
@@ -63,6 +63,7 @@ them from multiple hosts is an old trick that can make your website load faster.
 4. `git add -f dist`
 5. `git commit -m "Release [current version number]"`
 6. `git tag [current version number]`
+7. `npm publish .`
 
 Start working on the next version:
 
