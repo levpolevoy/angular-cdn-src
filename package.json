@@ -1,7 +1,7 @@
 {
   "name": "angular-cdn-src",
   "description": "An AngularJS module that automatically prepends 'src' attributes with CDN server paths",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "private": false,
   "author": "Lev Polevoy <levpolevoy@gmail.com>",
   "repository": {
