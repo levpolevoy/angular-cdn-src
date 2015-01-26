@@ -1,3 +1,7 @@
+# 0.0.5 (2015-01-26)
+
+* Fix compatibility issue with npm #9
+
 # 0.0.4 (2015-01-26)
 
 * Updates to the demo #3
