@@ -1,3 +1,9 @@
+# 0.0.4 (2015-01-26)
+
+* Updates to the demo #3
+* Publish to npm #9
+* Updates to circle.yml (use npm install/test instead of direct calls to lineman)
+
 # 0.0.3 (2015-01-25)
 
 * Update release instructions in README.md #2
