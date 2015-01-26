@@ -1,6 +1,6 @@
 test:
   override:
     - echo "Checking that the build process works"
-    - ./node_modules/.bin/lineman build
+    - npm install
     - echo "Running unit tests"
-    - ./node_modules/.bin/lineman spec-ci
+    - npm build
